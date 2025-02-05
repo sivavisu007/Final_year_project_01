@@ -30,6 +30,7 @@ Uses OpenCV for face detection and SQLAlchemy for database integration.
 
 2. Run the Application
     Execute the following command:
+   
       python main.py
       The system captures a real-time image.
       Recognizes the student.
@@ -38,6 +39,7 @@ Uses OpenCV for face detection and SQLAlchemy for database integration.
 
 **Configuration**
     Update the following parameters in main.py:
+    
     SMTP Configuration (for email alerts)
     smtp_server = "smtp.gmail.com"
     smtp_port = 587
