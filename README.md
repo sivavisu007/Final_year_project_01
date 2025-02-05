@@ -1,6 +1,6 @@
 **Facial Recognition Attendance System**
-
-    This project is a Facial Recognition-based Attendance System using Deep Learning. It marks attendance by recognizing faces and sends an email alert if a student does not wear an ID.
+        
+This project is a Facial Recognition-based Attendance System using Deep Learning. It marks attendance by recognizing faces and sends an email alert if a student does not wear an ID.
 
 **Features**
 
@@ -22,8 +22,8 @@
     Tkinter
 
 **Install Dependencies**
-    
     Run the following command to install the required Python libraries:
+    
     pip install opencv-python face-recognition pandas sqlalchemy smtplib
 
 **Usage**
@@ -51,10 +51,8 @@
 
 **Output**
     
-    Attendance stored in an Excel file (attendance_sheet_<date>.xlsx).
-    Alerts sent to students and the HOD via email.
+Attendance stored in an Excel file (attendance_sheet_<date>.xlsx). Alerts sent to students and the HOD via email.
 
 **License**
-
     This project is open-source under the MIT License.
 
